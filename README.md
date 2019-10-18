@@ -10,3 +10,4 @@ The goal is to create a repo that will launch a build on commit made on the mast
 - tag
 - release
 - upload to dockerhub ?
+- rock
