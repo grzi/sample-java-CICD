@@ -1,3 +1,6 @@
+## Documentations :tada:
+- **CHANGELOG :** Added a first auto generated CHANGELOG test
+- **readme :** changed readme doc
 ## New feature :tada:
 - **ci :** Added ignore to CHANGELOG.md
 - **changelog :** Added changelog
