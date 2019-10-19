@@ -25,3 +25,4 @@ jobs:
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         GITHUB_USER: zthulj
+        GITHUB_MAIL: jeremy.thulliez@zenika.com
