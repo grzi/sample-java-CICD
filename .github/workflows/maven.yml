@@ -20,3 +20,8 @@ jobs:
         java-version: 1.11
     - name: Build with Maven
       run: mvn -B package --file pom.xml
+    - name: Generate changelog
+      uses: zthulj/github-generateChangelog-action@master
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        GITHUB_USER: zthulj
