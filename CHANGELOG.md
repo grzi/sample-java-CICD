@@ -1,3 +1,6 @@
+# 1.0.1
+## Bug fixes :bug:
+- **core :** Fixed a wrong number in the main class ([e2d1887](https://github.com/zthulj/sample-java-CICD/commit/e2d1887))
 # 0.0.1
 ## Bug fixes :bug:
 - **core :** Fixed a wrong number in the main class ([e2d1887](https://github.com/zthulj/sample-java-CICD/commit/e2d1887))
