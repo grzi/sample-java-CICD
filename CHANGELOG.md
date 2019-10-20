@@ -1,3 +1,4 @@
+# 2.0.0
 # 1.1.1
 ## Build improvements :construction_worker:
 - **action :** Changed repository of the action ([2354417](https://github.com/zthulj/sample-java-CICD/commit/2354417))
