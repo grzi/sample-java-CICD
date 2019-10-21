@@ -1,3 +1,8 @@
+# 2.1.0
+## New features :tada:
+- **test :** test 56 ([554b524](https://github.com/zthulj/sample-java-CICD/commit/554b524))
+## Build improvements :construction_worker:
+- **action :** changed branch ([8a34a22](https://github.com/zthulj/sample-java-CICD/commit/8a34a22))
 # 
 ## New features :tada:
 - **test :** test 56 ([554b524](https://github.com/zthulj/sample-java-CICD/commit/554b524))
