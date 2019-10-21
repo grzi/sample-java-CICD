@@ -7,4 +7,4 @@ The goal is to create a repo that will launch a build on commit made on the mast
 - test :heavy_check_mark: 
 - Generate changelog from commit messages :heavy_check_mark:
 - tag with content in body :heavy_check_mark: 
-  
+   
