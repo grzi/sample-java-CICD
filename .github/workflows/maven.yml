@@ -21,7 +21,7 @@ jobs:
     - name: Build with Maven
       run: mvn -B package --file pom.xml
     - name: Generate changelog
-      uses: zthulj/changelog-and-tag-action@master
+      uses: zthulj/changelog-and-tag-action@dev
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         GITHUB_USER: zthulj
