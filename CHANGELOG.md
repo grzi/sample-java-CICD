@@ -1,3 +1,4 @@
+# 2.2.0
 # 2.1.0
 ## New features :tada:
 - **test :** test 56 ([554b524](https://github.com/zthulj/sample-java-CICD/commit/554b524))
